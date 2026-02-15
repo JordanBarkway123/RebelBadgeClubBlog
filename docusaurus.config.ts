@@ -75,7 +75,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Rebel Badge Club Blog',
+      title: 'My Site',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -85,7 +85,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Home',
+          label: 'Tutorial',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
